@@ -1,0 +1,23 @@
+# Ignore SQL database and trained models
+mess_feedback.db
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual env
+.venv/
+.env
+# Ignore databases and model files
+*.db
+*.pkl
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual env
+.venv/
+.env
